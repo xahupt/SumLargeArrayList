@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  *
  *
  * @author percy 多线程并行计算随机数组之和
- * 单线程要比多线程快
+ *               单线程要比多线程快
  *
  */
 public class SumLargeArrayList{
